@@ -31,7 +31,7 @@ https://github.com/JeffLIrion/adb_shell
 
 ### Tutorial
 
-Please check [demo.ipynb](https://github.com/WeihaoZhuang/PySNPE/demo.ipynb).
+Please check [demo.ipynb](https://github.com/WeihaoZhuang/PySNPE/blob/master/demo.ipynb).
 
 ### TODO List
  - [ ] DSP runtime
